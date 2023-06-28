@@ -1,5 +1,5 @@
 use std::io;
-
+// 입출력과 사칙연산 2번
 fn main() {
     let mut input = String::new();
 
